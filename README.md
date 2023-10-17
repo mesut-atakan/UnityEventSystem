@@ -1,8 +1,10 @@
 # Unity Event System: A Comprehensive Guide
 
+![Unity Logo](https://i.snag.gy/UHfE7.jpg)
+
 ## Introduction
 
-Unity's Event System is a powerful tool for creating responsive and interactive game experiences. This system allows you to trigger actions in response to various events, such as user input, game state changes, and more. In this comprehensive guide, we will explore the Unity Event System, covering its key components, uses, and how to implement it in your projects.
+Unity's Event System is a **powerful tool** for creating _responsive and interactive_ game experiences. This system allows you to trigger actions in response to various events, such as user input, game state changes, and more. In this comprehensive guide, we will explore the Unity Event System, covering its key components, uses, and how to implement it in your projects.
 
 ## Table of Contents
 
@@ -44,7 +46,7 @@ Unity's Event System is a powerful tool for creating responsive and interactive 
 
 ### What are Unity Events?
 
-Unity Events are a part of the Unity Engine that facilitates communication between different game objects and systems. They provide a way for one object to notify others that something has happened, enabling a decoupled and modular design.
+Unity Events are a part of the Unity Engine that facilitates communication between different game objects and systems. They provide a way for one object to notify others that something has happened, enabling a _decoupled and modular_ design.
 
 ### Event Listeners and Invokers
 
