@@ -421,6 +421,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4190100089719137571, guid: bfab6b59f9ba31e4abb27338c4ac11ac, type: 3}
+      propertyPath: coinCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1615084851}
+    - target: {fileID: 4190100089719137571, guid: bfab6b59f9ba31e4abb27338c4ac11ac, type: 3}
+      propertyPath: coinCollect.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1088952865}
     - target: {fileID: 6038622892315365795, guid: bfab6b59f9ba31e4abb27338c4ac11ac, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.33321
@@ -638,7 +646,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4cbff38b8b2abec49b258f2893e7bd90, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreText: {fileID: 0}
+  scoreText: {fileID: 997980077}
 --- !u!114 &1088952866
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -730,6 +738,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4190100089719137571, guid: bfab6b59f9ba31e4abb27338c4ac11ac, type: 3}
+      propertyPath: coinCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1615084851}
+    - target: {fileID: 4190100089719137571, guid: bfab6b59f9ba31e4abb27338c4ac11ac, type: 3}
+      propertyPath: coinCollect.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1088952865}
     - target: {fileID: 6038622892315365795, guid: bfab6b59f9ba31e4abb27338c4ac11ac, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.0178375
@@ -1263,10 +1279,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2126017930536786641, guid: bfab6b59f9ba31e4abb27338c4ac11ac, type: 3}
-      propertyPath: m_IsTrigger
-      value: 1
-      objectReference: {fileID: 0}
+    - target: {fileID: 4190100089719137571, guid: bfab6b59f9ba31e4abb27338c4ac11ac, type: 3}
+      propertyPath: coinCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1615084851}
+    - target: {fileID: 4190100089719137571, guid: bfab6b59f9ba31e4abb27338c4ac11ac, type: 3}
+      propertyPath: coinCollect.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1088952865}
     - target: {fileID: 6038622892315365795, guid: bfab6b59f9ba31e4abb27338c4ac11ac, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.4
